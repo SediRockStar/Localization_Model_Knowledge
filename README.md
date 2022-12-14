@@ -1,6 +1,6 @@
 # Localization_Model_Knowledge
 
-A Study on Localization of Knowledge in Language Models
+Report title: A Study on Localization of Knowledge in Language Models
 
 For causal mediation analysis, see knowledge_editing/notebooks folder. For knowledge editing, see knowledge_editing/example_{}.ipynb. Knowledge editing results are available upon request (the accumulated json files are too big).
 
@@ -13,3 +13,8 @@ For Experiments of Knowledge Neuron on GPT-2 and BERT, please rerun the experime
 The context-PARAREL dataset could be created in runtime easily using the function `pararel_expanded` inside the kn.ipynb file. Note the dataset has slight difference for gpt and bert. You have to choose the model_type when deploying the dataset. 
 
 Note: To run all the ipy-notebook files, we recommend to use at least Nvidia Tesla P100 GPU. The requirements for the certain experiments are included in the files. 
+
+
+This is the course project repository for COMP 599 (Natural Language Understanding with Deep Learning) Fall 2022 at McGill University. 
+
+Developers: Steve Wen @SedimentaryRockStar, Mark Bai @rdh1115. Mentor: Zichao Li
