@@ -13,6 +13,7 @@ For Experiments of Knowledge Neuron on GPT-2 and BERT, please rerun the experime
 The context-PARAREL dataset could be created in runtime easily using the function `pararel_expanded` inside the kn.ipynb file. Note the dataset has slight difference for gpt and bert. You have to choose the model_type when deploying the dataset. 
 
 Note: To run all the ipy-notebook files, we recommend to use at least Nvidia Tesla P100 GPU. The requirements for the certain experiments are included in the files. 
+      Our knowledge neuron implementations are based on the reproduction work of [EleutherAI](https://github.com/EleutherAI/knowledge-neurons) with our own modifications and improvements. 
 
 
 This is the course project repository for COMP 599 (Natural Language Understanding with Deep Learning) Fall 2022 at McGill University. 
